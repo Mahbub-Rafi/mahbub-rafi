@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm IFTEKHER MAHBUB RAFI</h1>
-<h3 align="center">A passionate Computer Science Graduate from North South University</h3>
+<h3 align="center">Software Engineer with expertise in Java (Spring Boot), Angular, and Oracle SQL. Proven track record in optimizing university management systems, reducing onboarding time by 71%, and automating complex workflows. Adept at full-stack development and modernizing team collaboration tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-rafi" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer @Ahsanullah University of Science and Technology**
+- 🔭 Strong ability to look at complicated issues, set priorities, and come up with answers on time in a fast-paced setting. Able to make sure that problems are solved quickly and ideas are shared easily in team settings by communicating and working together well.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahbub-Rafi](https://github.com/Mahbub-Rafi)
 
 - 📫 How to reach me **mahbub.rafi.iftekher@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B7FAYsAtFMWGddSf2tFZT16erO43zRMM/view?usp=sharing](https://drive.google.com/file/d/1B7FAYsAtFMWGddSf2tFZT16erO43zRMM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
